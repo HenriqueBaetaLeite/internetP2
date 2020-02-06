@@ -1,0 +1,19 @@
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 baetaleite:51176        8.28.7.81:https         ESTABLISHED
+tcp        0      0 baetaleite:51178        8.28.7.81:https         ESTABLISHED
+tcp        0      0 baetaleite:53556        lb-140-82-113-26-:https ESTABLISHED
+tcp        0      0 baetaleite:36960        151.101.94.2:https      ESTABLISHED
+tcp        0      0 baetaleite:40644        server-52-84-174-:https ESTABLISHED
+tcp        0      0 baetaleite:51180        8.28.7.81:https         ESTABLISHED
+tcp        0      0 baetaleite:41620        server-13-227-124:https ESTABLISHED
+tcp        0      0 baetaleite:51408        server-52-84-175-:https ESTABLISHED
+tcp        0      0 baetaleite:40020        21.72.190.35.bc.g:https ESTABLISHED
+tcp        0      0 baetaleite:38284        ec2-23-21-193-169:https ESTABLISHED
+tcp        0      0 baetaleite:60620        ec2-18-228-99-199:https ESTABLISHED
+tcp        0      0 baetaleite:59386        ce-in-f188.1e100.n:5228 ESTABLISHED
+tcp        0      0 baetaleite:48316        139.140.244.35.bc:https ESTABLISHED
+tcp6       0      0 baetaleite:54462        2600:9000:21e8:f8:https ESTABLISHED
+tcp6       0      0 baetaleite:41678        2606:4700:10::681:https ESTABLISHED
+tcp6       0      0 baetaleite:41668        2606:4700:10::681:https ESTABLISHED
+tcp6       0      0 baetaleite:48166        2606:4700::6810:5:https ESTABLISHED
