@@ -1,0 +1,21 @@
+{
+  "args": {}, 
+  "data": "", 
+  "files": {}, 
+  "form": {
+    "firstname": "Henrique", 
+    "lastname": "Ba\u00eata"
+  }, 
+  "headers": {
+    "Accept": "*/*", 
+    "Content-Length": "34", 
+    "Content-Type": "application/x-www-form-urlencoded", 
+    "Host": "httpbin.org", 
+    "User-Agent": "curl/7.65.3", 
+    "X-Amzn-Trace-Id": "Root=1-5e3c8c79-751a65ba57761972bb77a49e"
+  }, 
+  "json": null, 
+  "method": "PUT", 
+  "origin": "191.249.145.12", 
+  "url": "https://httpbin.org/anything"
+}
